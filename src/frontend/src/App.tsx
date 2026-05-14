@@ -562,9 +562,7 @@ function Gallery() {
         </div>
         {/* Masonry layout using CSS columns */}
         <div
-          className={`columns-2 md:columns-3 gap-4 space-y-4 transition-all duration-700 ${visible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
-            }`}
-          style={{ transitionDelay: "150ms" }}
+          className="columns-2 md:columns-3 gap-4 space-y-4"
         >
           {galleryImages.map((img, i) => (
             <div
@@ -576,7 +574,6 @@ function Gallery() {
                 src={img.src}
                 alt={img.alt}
                 className="w-full h-auto object-contain transition-transform duration-500 group-hover:scale-105"
-                loading="lazy"
               />
             </div>
           ))}
