@@ -517,8 +517,8 @@ const galleryImages = [
     span: "",
   },
   {
-    src: "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&q=80",
-    alt: "Student collaborating and doing assignments",
+    src: "gallery/image5.jpeg",
+    alt: "Students learning and collaborating",
     span: "",
   },
   {
@@ -532,8 +532,8 @@ const galleryImages = [
     span: "",
   },
   {
-    src: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=600&q=80",
-    alt: "Students at work with modern tools",
+    src: "gallery/image6.jpeg",
+    alt: "Active learning environment",
     span: "",
   },
 ];
