@@ -507,32 +507,32 @@ function Programs() {
 // ─── Gallery ──────────────────────────────────────────────────────────────────
 const galleryImages = [
   {
-    src: "gallery/image3.jpeg",
+    src: "/gallery/image3.jpeg",
     alt: "Classroom teaching on digital board",
     span: "row-span-2",
   },
   {
-    src: "gallery/image4.jpeg",
+    src: "/gallery/image4.jpeg",
     alt: "Group of students studying together",
     span: "",
   },
   {
-    src: "gallery/image5.jpeg",
+    src: "/gallery/image5.jpeg",
     alt: "Students learning and collaborating",
     span: "",
   },
   {
-    src: "gallery/image1.jpeg",
+    src: "/gallery/image1.jpeg",
     alt: "Modern learning space",
     span: "row-span-2",
   },
   {
-    src: "gallery/image2.jpeg",
+    src: "/gallery/image2.jpeg",
     alt: "Focused student",
     span: "",
   },
   {
-    src: "gallery/image6.jpeg",
+    src: "/gallery/image6.jpeg",
     alt: "Active learning environment",
     span: "",
   },
