@@ -1,0 +1,8 @@
+node_modules
+.dfx
+dist
+.env
+*.log
+.DS_Store
+.idea
+.vscode
